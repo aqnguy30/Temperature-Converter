@@ -1,3 +1,2 @@
 # Temperature-Converter
-
-Simple program to convert temparatures
+Sample program to convert temparatures
